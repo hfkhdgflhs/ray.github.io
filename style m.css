@@ -1,0 +1,21 @@
+body {
+  background-color: #aaffff;
+}
+#wel {
+  padding: 9px 5px 9px 5px;
+  border: 2px double red;
+  margin: 10px;
+}
+#wel2 {
+  padding: 20px 20px 7px 7px;
+  color: rgb(44, 109, 165);
+  border: 3px double red;
+  margin: 50px;
+}
+.div1 {
+  color: blue;
+  padding: 10px 5px 10px 5px;
+  border: 3px double red;
+  margin: 0 auto;
+  width: 50%;
+}
