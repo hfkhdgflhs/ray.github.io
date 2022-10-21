@@ -1,6 +1,18 @@
 body {
   background-color: #aaffff;
 }
+.fake {
+  background-color: green;
+  height: 200px;
+}
+.container {
+  background-color: blue;
+  height: 2000px;
+}
+img {
+  position: relative;
+  top: 50px;
+}
 #wel {
   padding: 9px 5px 9px 5px;
   border: 2px double red;
